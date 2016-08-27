@@ -4,7 +4,8 @@
   "description": "A parser and validator for the GraphQL language",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "eg": "cat eg/first.gql | node main.js"
   },
   "repository": {
     "type": "git",
