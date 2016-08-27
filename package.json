@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mattfenwick/graphqllint-js/issues"
   },
-  "homepage": "https://github.com/mattfenwick/graphqllint-js#readme"
+  "homepage": "https://github.com/mattfenwick/graphqllint-js#readme",
+  "dependencies": {
+    "unparse-js": "^0.2.0"
+  }
 }
