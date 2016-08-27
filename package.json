@@ -1,0 +1,25 @@
+{
+  "name": "graphqllint-js",
+  "version": "0.0.1",
+  "description": "A parser and validator for the GraphQL language",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattfenwick/graphqllint-js.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "lint",
+    "parse",
+    "parsing"
+  ],
+  "author": "Matt Fenwick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfenwick/graphqllint-js/issues"
+  },
+  "homepage": "https://github.com/mattfenwick/graphqllint-js#readme"
+}
