@@ -1,3 +1,39 @@
+{
+  zomg: __type(name:"Int") {
+    name
+    kind
+  }
+  __schema {
+    types {
+      name
+      kind
+      description
+    }
+    queryType {
+      name
+      kind
+      description
+    }
+    mutationType {
+      name
+      kind
+      description
+    }
+    subscriptionType {
+      name
+      kind
+      description
+    }
+    directives {
+      name
+    }
+  }
+}
+
+{ zomg }
+
+($x: Int, $y: Bool)
+
  1
  -0
  -2.7e-18
