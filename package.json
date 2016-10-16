@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/mattfenwick/graphqllint-js#readme",
   "dependencies": {
-    "unparse-js": "^0.2.0"
+    "unparse-js": "0.3.0"
   }
 }
